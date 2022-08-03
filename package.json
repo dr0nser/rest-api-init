@@ -20,5 +20,6 @@
   ],
   "author": "Souvik Das",
   "license": "ISC",
-  "repository": "whyucode/rest-api-init"
+  "repository": "whyucode/rest-api-init",
+  "homepage": "https://whyucode.github.io/rest-api-init/"
 }
