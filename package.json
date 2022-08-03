@@ -1,6 +1,6 @@
 {
   "name": "rest-api-init",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A REST API template generator for Node.js, Express & MongoDB",
   "main": "index.js",
   "type": "module",
