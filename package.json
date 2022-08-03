@@ -1,0 +1,23 @@
+{
+  "name": "rest-api-init",
+  "version": "1.0.4",
+  "description": "A REST API template generator for Node.js, Express & MongoDB",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "rest-api-init": "bin/script.js"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "generator",
+    "node",
+    "express",
+    "mongodb"
+  ],
+  "author": "Souvik Das",
+  "license": "ISC"
+}
