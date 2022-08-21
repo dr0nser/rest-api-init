@@ -1,4 +1,4 @@
-# rest-api-init
+# [rest-api-init](https://www.npmjs.com/package/rest-api-init)
 
 Fastest way to create REST API with [Node.js](https://nodejs.org/en/), [Express.js](https://expressjs.com/) & [MongoDB](https://www.mongodb.com/).
 
